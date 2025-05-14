@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Code of war**
 
-- 👯 I’m looking to collaborate on **Feedback-System**
+- 👯 I've Developed a robust univeristy **Feedback System**
 
-- 🤝 I’m looking for help with **DisasterSHIELD**
+- 🤝 Got 2nd place in a hackathon with **DisasterSHIELD**
 
 - 💬 Ask me about **Next.js, Node.js, Python, C/C++**
 
