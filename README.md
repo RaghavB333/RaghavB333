@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **raghavbhargava3@gmail.com**
 
--🌐 Portfolio: [raghavb.vercel.app](https://raghavb.vercel.app](https://portfolio-beta-seven-3vz2eubgoa.vercel.app/))
+  - 🌐 Portfolio: [portfolio-beta-seven-3vz2eubgoa.vercel.app](https://portfolio-beta-seven-3vz2eubgoa.vercel.app)
+
 
 
 <h3 align="left">Connect with me:</h3>
